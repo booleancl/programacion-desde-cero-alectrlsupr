@@ -10,3 +10,4 @@ elif age >= 6:
     print("Estás en la parte más entretenida sigue jugando")
 else:
     print("Aún viene lo mejor")
+    
